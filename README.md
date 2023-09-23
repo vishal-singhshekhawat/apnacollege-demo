@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Vishal Singh Shekhawat
+Author - Vishal Singh Shekhawat(apna college)
